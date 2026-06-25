@@ -1,6 +1,6 @@
 ---
 name: project-decomposer
-description: Décompose automatiquement des projets Linear dont Mia est Lead en Epics, Stories et Tâches techniques, avec critères d'acceptation, estimations, et création directe des issues dans Linear avec les bons labels. Utilise ce skill dès que l'utilisateur mentionne "découper un projet", "créer des epics", "décomposer en stories", "planifier les tâches", "structurer un projet Linear", ou demande à organiser le travail d'un projet existant en sous-éléments — même sans dire explicitement "epic" ou "story". Ce skill s'applique aussi quand l'utilisateur pointe vers un projet Linear existant à rendre actionnable. IMPORTANT : ne s'applique qu'aux projets dont Mia est Lead.
+description: Décompose automatiquement des projets Linear dont Mia est Lead en Epics, Stories et Tâches techniques, avec critères d'acceptation, estimations, et création directe des issues dans Linear avec les bons labels. Utilise ce skill dès que l'utilisateur mentionne "découper un projet", "créer des epics", "décomposer en stories", "planifier les tâches", "structurer un projet Linear", ou demande à organiser le travail d'un projet existant en sous-éléments — même sans dire explicitement "epic" ou "story". Ce skill s'applique aussi quand l'utilisateur pointe vers un projet Linear existant à rendre actionnable. Ce skill ne s'applique qu'aux projets dont Mia est Lead.
 ---
  
 # Project Decomposer — Linear (projets Mia)
